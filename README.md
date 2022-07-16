@@ -14,3 +14,11 @@
 10. Hierarchical Clustering
 11. Recommender system Conted Bases
 12. Recommender system Collaborative Filtering
+
+Some Resources that can be helpful:
+
+https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python  
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf  
+https://matplotlib.org/cheatsheets/_images/cheatsheets-1.png  
+https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning  
+
